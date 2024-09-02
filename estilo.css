@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.topo{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: flex;
+    margin-left: 10%;
+    font-size: x-large;
+    .link{
+        position: absolute;
+        right: 10%;
+        a{
+            text-decoration: none;
+            font-size: 15px;
+            padding-left: 20px;
+            padding-right: 20px;
+            color: black;
+        }
+    }
+    .titulo{
+        a{
+            font-size: 25PX;
+        }
+        b{
+            color: #6c96b3;
+        }
+    }
+}
